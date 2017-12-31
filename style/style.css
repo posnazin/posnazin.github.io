@@ -1,0 +1,45 @@
+h1 {
+	color: #ff6347;
+	text-align: center;
+}
+
+p {
+	text-align: center;
+}
+
+.cell input {
+    display: inline-block;
+    float: center;
+    background-color: #e8e8e8;
+    border-radius: 10px;
+
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 22px;
+    border-style: none;
+}
+
+.centered-table {
+   margin-left: auto;
+   margin-right: auto;
+}
+
+.cell {
+    background-color: #cecdcd;
+    width: 50px;
+    height: 50px;
+    border-radius: 10px;
+    text-align: center;
+    font-size: 24px;
+}
+
+.space-h {
+	width: 5px;
+}
+
+.space-v {
+	height: 5px;
+}
+
